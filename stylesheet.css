@@ -60,8 +60,7 @@ a {
 }
 
 .instagram {
-  /*background: linear-gradient(45deg, rgba(254,212,117,1) 0%,rgba(229,61,93,1) 50%,rgba(194,49,134,1) 70%,rgba(156,56,187,1) 100%);*/
-  background-color: #ffff00;
+  background: linear-gradient(45deg, rgba(254,212,117,1) 0%,rgba(229,61,93,1) 50%,rgba(194,49,134,1) 70%,rgba(156,56,187,1) 100%);
   margin-right: 10px;
 }
 
@@ -249,6 +248,10 @@ footer {
   }
 
   .twitter {
+    margin-top: 10px;
+  }
+  
+  .Instagram {
     margin-top: 10px;
   }
 
