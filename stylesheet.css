@@ -64,6 +64,11 @@ a {
   margin-right: 10px;
 }
 
+.tiktok {
+  background-color: #000;
+  margin-right: 10px;
+}
+
 .btn {
   padding: 8px 24px;
   color: white;
@@ -253,6 +258,10 @@ footer {
   
   .instagram {
     margin-top: 10px;
+  }
+
+  .tiktok {
+     margin-tip: 10px;
   }
 
   .top-wrapper {
